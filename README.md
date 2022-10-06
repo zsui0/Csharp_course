@@ -1,2 +1,2 @@
 # Csharp_course
-My development for this course
+Idea: Web-Scraper -> .NET MAUI 
